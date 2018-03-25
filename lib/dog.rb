@@ -10,7 +10,7 @@ class Dog
       puts dog
     end
   end
-  def self.clar_all
-    
+  def self.clear_all
+
   end
 end
